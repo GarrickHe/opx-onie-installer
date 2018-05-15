@@ -1,4 +1,4 @@
-# OPX ONIE Installer
+# OpenSwitch ONIE Installer
 
 This repository holds the utilities and data files describing how to build an ONIE installation image for OPX.
 
