@@ -2,6 +2,6 @@
   <!-- Repository for standard Debian packages -->
 
   <url>http://httpredir.debian.org/debian</url>
-  <distribution>jessie</distribution>
+  <distribution>stretch</distribution>
   <component>main</component>
 </package_desc>

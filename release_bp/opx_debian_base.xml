@@ -13,7 +13,6 @@
   <package_list>
     <package name="bind9" />
     <package name="e2fsprogs" />
-    <package name="frr" />
     <package name="grub2-common" />
     <package name="ifenslave" />
     <package name="iproute" />
