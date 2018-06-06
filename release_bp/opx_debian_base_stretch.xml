@@ -6,10 +6,10 @@
   <default_solver/>
 
   <xi:include href="repo/stretch.xml"/>
+  <xi:include href="repo/stretch_backports.xml"/>
   <xi:include href="repo/stretch_security.xml"/>
 
   <package_list>
-    <package name="bind9" />
     <package name="e2fsprogs" />
     <package name="grub2-common" />
     <package name="ifenslave" />
