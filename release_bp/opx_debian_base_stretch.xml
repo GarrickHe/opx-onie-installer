@@ -19,6 +19,7 @@
     <package name="libhiredis0.13" />
     <package name="lvm2" />
     <package name="net-tools" />
+    <package name="ntp" />
     <package name="openssh-server" />
     <package name="tcpdump" />
     <package name="tkmib" />
