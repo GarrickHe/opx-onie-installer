@@ -11,6 +11,7 @@
 
   <package_list>
     <package name="e2fsprogs" />
+    <package name="ftp" />
     <package name="grub2-common" />
     <package name="ifenslave" />
     <package name="iproute" />
@@ -19,6 +20,7 @@
     <package name="libhiredis0.13" />
     <package name="lvm2" />
     <package name="net-tools" />
+    <package name="ntp" />
     <package name="openssh-server" />
     <package name="tcpdump" />
     <package name="tkmib" />
