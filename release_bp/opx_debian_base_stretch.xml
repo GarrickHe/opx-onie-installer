@@ -12,6 +12,7 @@
   <package_list>
     <package name="e2fsprogs" />
     <package name="grub2-common" />
+    <package name="ifupdown2"/>
     <package name="ifenslave" />
     <package name="iproute" />
     <package name="iptables" />
