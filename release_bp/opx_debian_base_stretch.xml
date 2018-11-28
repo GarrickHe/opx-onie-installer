@@ -28,5 +28,6 @@
     <package name="watchdog" />
     <package name="logrotate"/>
     <package name="initramfs-tools"/>
+    <package name="ifupdown2"/>
   </package_list>
 </package_set>
